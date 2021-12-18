@@ -8,9 +8,9 @@ page_sections:
     logo: "/uploads/2018/06/21/forestry-full.svg"
     navigation:
       - link: "/"
-        link_text: Ubuild
+        link_text: Birds
       - link: "#swap"
-        link_text: Swap
+        link_text: Landscapes
       - link: "#customize"
         link_text: Customize
       - link: "#responsive"
@@ -23,15 +23,15 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: uBuild <br><strong>design blocks</strong>
+    headline: Sharing <br><strong>Knowledge and passion</strong>
     content:
-      This is the change I want to do.
+      Welcome to my page, where I share my passion for birds and Landscape ecology. I want this to be a repository of all the nice photos I've been taking during my trips and a platform to share what I think could be valuable for others in simila knowledhe paths.
     cta:
       enabled: true
       url: https://github.com/forestryio/ubuild-jekyll
       button_text: "See on GitHub "
     image:
-      image: "/uploads/2018/06/21/product-shot-1.png"
+      image: "/uploads/2018/06/21/DSCN2238.jpg"
       alt_text: Product Shot
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
   - template: content-feature
