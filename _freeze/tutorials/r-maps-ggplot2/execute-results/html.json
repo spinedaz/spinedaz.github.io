@@ -1,0 +1,15 @@
+{
+  "hash": "bc51c659b22d4db27cdb844033a22630",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Making maps and figures in R\"\ndate: \"2026-10-02\"\ncategories: [R, data visualization]\ndescription: \"Example tutorial. Replace it with your own.\"\n---\n\nShort introduction to what this tutorial covers.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\n\nggplot(mtcars, aes(wt, mpg)) +\n  geom_point() +\n  theme_minimal()\n```\n:::\n\n\nSet `eval: true` in a chunk to run it when the site is rendered.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
