@@ -20,20 +20,20 @@ El tamaño la delata; es un ave bastante grande, con el pico más largo y duro q
 
 Los adultos definitivamente hacen honor a su nombre en catalán, porque llevan una máscara negra, pero no es tan claro en los juveniles, como el de esta foto:
 
-![Curruca mirlona](images/birds/sylvia_hortensis.webp){width=60%}
+![Curruca mirlona](../images/birds/sylvia_hortensis.webp){width=50%}
 
 ***Sylvia cantillans*** – Tallarol de garriga – Curruca carrasqueña vs ***Sylvia melanocephala*** – Tallarol capnegre – Curruca cabecinegra
 
 En estas fotos comparamos dos ejemplares, a la izquierda, Sylvia cantillans joven, con un anillo ocular pálido. Los machos adultos tienen un anillo ocular rojo bastante claro y una bigotera blanca delgada. A la derecha, el juvenil de *Sylvia melanocephala* ya comienza a presentar su característico anillo ocular rojo.
 
-![Cant Melano](images/birds/cant_melano.webp){width=60%}
+![Cant Melano](../images/birds/cant_melano.webp){width=40%}
 
 Otro carácter determinante es el rojizo o marrón rojizo en los bordes de las terciarias de la *Sylvia cantillans* comparada con los bordes mucho más oscuros de la Sylvia melanocephala. Esto se ve claro en la siguiente foto, pero se ve mucho más claro en esta entrada del blog del grupo de anilamiento álula donde las comparan con una tercera curruca que es la tomillera (*Sylvia conspicillata*).
 
-![conspicillata ](images/birds/image.webp){width=60%}
+![conspicillata ](../images/birds/image.webp){width=40%}
 
 Finalmente, otro recurso muy útil es esta clave de Javier Blasco Zumeta y Gerd-Michael Heinze para la identificación de juveniles de curruca. Ahí, se menciona otro carácter fácil e interesante en el que, generalmente la primera primaria (en la guía 10ª) es de la misma longitud que las cobertoras primarias para la Sylvia cantillans, mientras que es más larga para la *Sylvia melanocephala.*
 
 Aquí dejo también una foto de un juvenil de *Sylvia cantillans* tomada por Eladi Ribes en el Parapeu (Bovera, Lleida).
 
-![Eladi](images/birds/image-1.webp){width=60%}
+![Eladi](../images/birds/image-1.webp){width=40%}
