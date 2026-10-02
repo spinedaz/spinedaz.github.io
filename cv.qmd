@@ -7,17 +7,38 @@ title: "CV"
 
 ## Education
 
-- **PhD**, University, Year
-- **Forestry engineering**, University, Year
+- **PhD in Forest sciences**, University of Eastern Finland, Finland. 2023–2026
+- **MSc in European forestry**, University of Eastern Finland, Finland. 2020–2022
+- **Forestry engineering**, Universidad Nacional de Colombia, Medellín. 2010–2017
 
 ## Positions
 
-- Position, Institution, Years
+- **Doctoral researcher in the Biomass Production Research Group.** School of Forest Sciences. University of Eastern Finland (UEF), Joensuu, Finland.
 
-## Skills
 
-- R (`terra`, `sf`, `ggplot2`), Google Earth Engine, spatial analysis
+- **Previous position**
+
+- 2026 Associate Editor. Journal ECOSISTEMAS. Ecological Asociation of Terrestrial Ecology – AEET.
+- 26/07/2025 – 20/11/2025. Visiting researcher. Research visit to the Université du Québec à Montréal (UQAM) in the lab of Christian Messier. Montreal, Canada.
+- 01/11/2023 – 30/11/2023. Visiting researcher. Research visit to the Adaptive Management and Forest Dynamics research group (Adaptafor). Lleida, Spain.
+- 06/2021 – 07/2021. Intern. LAB of forest planning and landscape analysis, University of Lleida. Lleida, Spain.
+
+## Data science and spatial analysis skills
+
+- Expertise in R for data management and visualization using complex spatial databases.
+- Expertise in ArcGIS and QGIS for geographic data analysis and visualization.
+- Experience with version control, branching, and collaboration using Git and GitHub, especially within the R environment.
+- Basics of Linux, basics of bash scripting. Actively learning more in the context of geostatistics.
 
 ## Languages
 
-Spanish, English, Catalan, Finnish
+Spanish, English, Catalan
+
+## Awards and grants
+
+- 2025: Liisa and Inkeri Hiltunen Foundation for doctoral research
+- 2025: Saastamoinen foundation grant through the University of Eastern Finland for research periods abroad
+- 2025: Iberian Society of Ecology (SIBECOL) grant to attend the III SIBECOL & XVII AEET meeting
+- 2025: OIKOS Finland travel grant to attend the Oikos Finland 2025 conference
+- 2023: Finnish cultural foundation. North Karelia regional fund
+- 2020-2022 Erasmus mundus + International master’s degrees.
