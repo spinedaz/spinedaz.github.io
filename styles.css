@@ -38,10 +38,10 @@ a:hover { color: var(--pine); }
 
 @media (max-width: 576px) {
   .profile-pic-box {
-    float: right;
-  position: relative;
-  top: -3rem;
-  margin: 0 0 1rem 1.5rem;
+    float: none;
+    position: static;
+    text-align: center;
+    margin: 0 0 1rem;
   }
   .profile-pic-box img {
     margin: 0 auto;
