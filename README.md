@@ -1,15 +1,27 @@
 # Sara Pineda Z – personal website
 
-Quarto website published with GitHub Pages.
+Source code of my personal and academic website: https://spinedaz.github.io
 
-## Local preview
+The site includes my research, tutorials on landscape ecology and GIS
+tools, birdwatching notes and a blog.
+
+## Built with
+
+- [Quarto](https://quarto.org/)
+- [GitHub Pages](https://pages.github.com/)
+
+## Structure
+
+- `index.qmd` – home page
+- `data-visualization.qmd`, `gis-tools.qmd`, `birds.qmd`, `publications.qmd` – main pages
+- `posts/` – blog posts
+- `styles.css` – custom styles
+- `_quarto.yml` – site configuration and menu
+
+## Run locally
+
     quarto preview
 
-## Publish
-1. Create the repo `spinedaz.github.io` (or any name) and push this folder to `main`.
-2. Run once: `quarto publish gh-pages` (creates the `gh-pages` branch).
-3. GitHub → Settings → Pages → Source: branch `gh-pages`, folder `/ (root)`.
-4. From then on every push to `main` republishes the site (see `.github/workflows/publish.yml`).
+## License
 
-## Add a post
-Create `posts/YYYY-MM-DD-title.qmd` with `title`, `date` and `categories` in the header.
+Content © Sara Pineda Z. All rights reserved.
