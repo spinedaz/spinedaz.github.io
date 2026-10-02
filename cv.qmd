@@ -16,7 +16,7 @@ title: "CV"
 - **Doctoral researcher in the Biomass Production Research Group.** School of Forest Sciences. University of Eastern Finland (UEF), Joensuu, Finland.
 
 
-- **Previous position**
+## Previous position
 
 - 2026 Associate Editor. Journal ECOSISTEMAS. Ecological Asociation of Terrestrial Ecology – AEET.
 - 26/07/2025 – 20/11/2025. Visiting researcher. Research visit to the Université du Québec à Montréal (UQAM) in the lab of Christian Messier. Montreal, Canada.
