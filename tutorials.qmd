@@ -1,0 +1,10 @@
+---
+title: "Tutorials"
+description: "Guides on R, GIS, Google Earth Engine and landscape ecology."
+listing:
+  contents: tutorials
+  type: default
+  sort: "date desc"
+  categories: true
+  date-format: "D MMMM YYYY"
+---

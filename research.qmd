@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+I work in landscape ecology, with a focus on ecological connectivity and landscape planning.
+
+<!-- Add or replace topics with your current research areas. -->
+
+## Projects
+
+### Project name
+
+One or two sentences: the question, the study area, the methods and your role.
+
+### Another project
+
+Same format. Link to a paper, a repository or the project website if there is one.
+
+## Collaborations
+
+Groups and institutions you work with.

@@ -1,0 +1,19 @@
+---
+title: "Making maps and figures in R"
+date: "2026-10-02"
+categories: [R, data visualization]
+description: "Example tutorial. Replace it with your own."
+---
+
+Short introduction to what this tutorial covers.
+
+```{r}
+#| eval: false
+library(ggplot2)
+
+ggplot(mtcars, aes(wt, mpg)) +
+  geom_point() +
+  theme_minimal()
+```
+
+Set `eval: true` in a chunk to run it when the site is rendered.

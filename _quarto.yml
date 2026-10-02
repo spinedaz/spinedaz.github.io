@@ -8,16 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: data-visualization.qmd
-        text: Data visualization
-      - href: gis-tools.qmd
-        text: Landscape ecology and GIS tools
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: tutorials.qmd
+        text: Tutorials
       - href: birds.qmd
         text: Birds
-      - href: thoughts.qmd
-        text: Thoughts
-      - href: publications.qmd
-        text: Sci publications
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
     tools:
       - icon: github
         href: https://github.com/spinedaz
@@ -29,6 +31,7 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.css]
+    theme: cosmo
+    css: styles.css
     toc: false
     link-external-newwindow: true

@@ -1,5 +1,5 @@
 ---
-title: "Sci publications"
+title: "Publications"
 ---
 
 ## Peer-reviewed articles
@@ -10,4 +10,8 @@ title: "Sci publications"
 
 - Title of your thesis (Year). University.
 
-<!-- Replace the entries above with your own publications. -->
+## Talks and posters
+
+- Title. Conference, place, year.
+
+<!-- Replace the entries above with your own. -->

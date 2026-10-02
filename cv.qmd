@@ -1,0 +1,23 @@
+---
+title: "CV"
+---
+
+<!-- To offer a PDF, save it as files/cv.pdf and uncomment the next line. -->
+<!-- [Download CV (PDF)](files/cv.pdf) -->
+
+## Education
+
+- **PhD**, University, Year
+- **Forestry engineering**, University, Year
+
+## Positions
+
+- Position, Institution, Years
+
+## Skills
+
+- R (`terra`, `sf`, `ggplot2`), Google Earth Engine, spatial analysis
+
+## Languages
+
+Spanish, English, Catalan, Finnish

@@ -1,0 +1,8 @@
+---
+title: "Ecological connectivity: first steps"
+date: "2026-10-01"
+categories: [GIS, connectivity]
+description: "Example tutorial. Replace it with your own."
+---
+
+Outline of the tutorial: the concept, the data you need, the tools and the workflow.
