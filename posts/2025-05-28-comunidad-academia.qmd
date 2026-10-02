@@ -2,7 +2,7 @@
 title: "El sentimiento de comunidad y la academia"
 date: "2025-05-28"
 categories: [academia, es]
-description: "Migrate the full text from the WordPress blog."
+draft: TRUE
 ---
 
 Original post: <https://spinedaz1.wordpress.com/>

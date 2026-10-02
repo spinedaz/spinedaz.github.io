@@ -2,7 +2,7 @@
 title: "Anellament a la estació del Parapeu"
 date: "2026-05-11"
 categories: [birds, ca]
-description: "Migrate the full text from the WordPress blog."
+draft: TRUE
 ---
 
 Original post: <https://spinedaz1.wordpress.com/>

@@ -2,7 +2,7 @@
 title: "The PhD journey lately"
 date: "2025-05-23"
 categories: [phd, en]
-description: "Migrate the full text from the WordPress blog."
+draft: true
 ---
 
 Original post: <https://spinedaz1.wordpress.com/>
