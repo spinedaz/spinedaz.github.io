@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Join me as I dive into the chaotic jungle of open data, GIS wizardry, and the satisfying tutorials that kept me (barely) sane during my researcher struggles!"
+  },
+  {
+    "objectID": "tutorials.html#open-spatial-data",
+    "href": "tutorials.html#open-spatial-data",
+    "title": "Tutorials",
+    "section": "Open spatial data",
+    "text": "Open spatial data\n\nNatural earth: Free vector and raster maps of cultural and physical data for the whole world. I use the natural earth data mainly to get administrative boundaries of countries, states or provinces. They also have coarse resolution rivers and lakes.\nOpen topography: Global and regional elevetion models, and so much more! Amazing DEM at a global and regional scale. They also have bulk download available if you register for free! 😎\nLandsat ready data Spatially and temporally consistent input for land cover mapping and change detection at global to local scales"
+  },
+  {
+    "objectID": "tutorials.html#tools",
+    "href": "tutorials.html#tools",
+    "title": "Tutorials",
+    "section": "Tools",
+    "text": "Tools\n\nLandscape ecology\n\nI used Gnarly Landscape Utilities to create resistance surfaces for my master’s thesis. In the webpage you can download the tool and also tutorials provided by circuitscape.\nThe one and only Linkage mapper for delimiting corridors.\nCircuitscape and omniscape for modeling functional connectivity based on circuit theory\nConefor and Makurhini to model landscape conenctivity based on graph theory\nLandscape metrics Incredibly useful R package to calculate landscape metrics"
+  },
+  {
+    "objectID": "tutorials.html#open-datasets",
+    "href": "tutorials.html#open-datasets",
+    "title": "Tutorials",
+    "section": "Open datasets",
+    "text": "Open datasets\n\nAvonet: Functional trait data for all birds, including six ecological variables, eleven continuous morphological traits, and information on range size and location."
+  },
+  {
+    "objectID": "tutorials.html#my-tutorials",
+    "href": "tutorials.html#my-tutorials",
+    "title": "Tutorials",
+    "section": "My tutorials",
+    "text": "My tutorials\n\n\n\n\n\n\n\n\n\n\nSimpsons heatwave dataviz\n\n\n\nR\n\nvisualization\n\nTidyTuesday\n\n\n\nA summer-themed visualization of the Simpsons dataset, I made for the TidyTuesday challenge. Code in the repo.\n\n\n\n\n\n10 July 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCanopy height map of my neighborhood\n\n\n\nR\n\nmaps\n\nremote sensing\n\n\n\nCanopy height of the Belén neighborhood in Medellín, adapted from a repository by Milos Agathon.\n\n\n\n\n\n15 May 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPaid maternity leave around the world (#30DayChartChallenge)\n\n\n\nR\n\nvisualization\n\n30DayChartChallenge\n\n\n\nWaffle chart of paid maternity leave length for the top 10 countries, using World Bank gender data. Day 4 of the #30DayChartChallenge 2024.\n\n\n\n\n\n4 April 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEurostat: cereal yield visualization\n\n\n\nR\n\nvisualization\n\nEurostat\n\n\n\nVisualizing cereal yields across Europe with Eurostat data. Code in the repo.\n\n\n\n\n\n25 February 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMedellín street map\n\n\n\nR\n\nmaps\n\nvisualization\n\n\n\nA street map of Medellín in ggplot2, based on the ggplot2tutor streetmaps tutorial.\n\n\n\n\n\n22 February 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRiver basins of Colombia\n\n\n\nR\n\nmaps\n\nGIS\n\n\n\nMap of Colombian river basins made in R. Code and data in the repo.\n\n\n\n\n\n22 February 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tutorials.html#tutorials-i-recommend",
+    "href": "tutorials.html#tutorials-i-recommend",
+    "title": "Tutorials",
+    "section": "Tutorials I recommend",
+    "text": "Tutorials I recommend\n\n\n\n\n\n\n\n\n\n\nLearn to purrr\n\n\n\nR\n\n\n\nTidyverse purrr package tutorial\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Pineda-Zapata, S., Morán-Ordoñez, A., Mola-Yudego, B., Duflot, R. Strategic placement of plantations enhances forest connectivity for birds in agricultural landscapes. Landsc Ecol (2026). https://doi.org/10.1007/s10980-026-02316-z\n\n\n\n\n\n\n\nBlanco-Rodriguez MA, Ameztegui A, Alday JG, Lecina-Díaz J, Pineda-Zapata S, Coll L (2025). Fire severity shapes landscape heterogeneity in Mediterranean forest ecosystems. Landsc Ecol 40, 210. https://doi.org/10.1007/s10980-025-02198-7\n\n\n\n\n\n\n\nPineda-Zapata, S., and B. Mola-Yudego. 2025. “ European Biomass Production Systems: Characterization and Potential Contribution to Land Use Diversity.” GCB Bioenergy 17, no. 7: e70057. https://doi.org/10.1111/gcbb.70057\n\n\n\n\n\n\n\nRyzhkova, N., Asselin, H., Ali, A. A., Kryshen, A., Bergeron, Y., Robles, D., Pineda-Zapata, S., & Drobyshev, I. (2025). PDO dynamics shape the fire regime of boreal subarctic landscapes in the Northwest Territories, Canada. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008178. https://doi.org/10.1029/2024JG008178\nPineda-Zapata, S., González-Ávila, S., Armenteras, D., González-Delgado, T., Morán-Ordóñez, A. (2024). Mapping the way: identifying priority potential corridors for protected areas connectivity in Colombia, Perspectives in Ecology and Conservation, Volume 22, Issue 2, Pages 156-166, ISSN 2530-0644, https://doi.org/10.1016/j.pecon.2024.02.003"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Pineda-Zapata, S., Morán-Ordoñez, A., Mola-Yudego, B., Duflot, R. Strategic placement of plantations enhances forest connectivity for birds in agricultural landscapes. Landsc Ecol (2026). https://doi.org/10.1007/s10980-026-02316-z\n\n\n\n\n\n\n\nBlanco-Rodriguez MA, Ameztegui A, Alday JG, Lecina-Díaz J, Pineda-Zapata S, Coll L (2025). Fire severity shapes landscape heterogeneity in Mediterranean forest ecosystems. Landsc Ecol 40, 210. https://doi.org/10.1007/s10980-025-02198-7\n\n\n\n\n\n\n\nPineda-Zapata, S., and B. Mola-Yudego. 2025. “ European Biomass Production Systems: Characterization and Potential Contribution to Land Use Diversity.” GCB Bioenergy 17, no. 7: e70057. https://doi.org/10.1111/gcbb.70057\n\n\n\n\n\n\n\nRyzhkova, N., Asselin, H., Ali, A. A., Kryshen, A., Bergeron, Y., Robles, D., Pineda-Zapata, S., & Drobyshev, I. (2025). PDO dynamics shape the fire regime of boreal subarctic landscapes in the Northwest Territories, Canada. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008178. https://doi.org/10.1029/2024JG008178\nPineda-Zapata, S., González-Ávila, S., Armenteras, D., González-Delgado, T., Morán-Ordóñez, A. (2024). Mapping the way: identifying priority potential corridors for protected areas connectivity in Colombia, Perspectives in Ecology and Conservation, Volume 22, Issue 2, Pages 156-166, ISSN 2530-0644, https://doi.org/10.1016/j.pecon.2024.02.003"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Sara Pineda Z",
+    "section": "About me",
+    "text": "About me\nHi, I’m Sara! 👋 I’m a forestry engineer and bird enthusiast 🐦‍⬛.\nI created this website to share the ups and downs of my research career, along with my own tutorials and tips on landscape ecology and landscape connectivity.\nThere is also a corner for birds: birdwatching and bird ringing are two of my favorite hobbies, and this is where I share the birds I’ve seen over the years.\nI also like writing so pop over to my blog for my thoughts on the things close to my heart: immigration, feminism 💪🏽, bird ringing, and whatever else is on my mind. ✍️\nNews: I just got my PhD diploma 🎓 and I’m about to start a postdoc in Canada 🍁, modeling forest management strategies to enhance resilience and connectivity.\n\nFollow me\nLinkedIn · GitHub · Bluesky"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Sara Pineda Z",
+    "section": "Recent posts",
+    "text": "Recent posts"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Confusión de currucas\n\n\n\nbirds\n\nes\n\n\n\n\n\n\n\n\n\n16 July 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "birds.html",
+    "href": "birds.html",
+    "title": "Birds",
+    "section": "",
+    "text": "In construction ⚠️👁️"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Forest sciences, University of Eastern Finland, Finland. 2023–2026\nMSc in European forestry, University of Eastern Finland, Finland. 2020–2022\nForestry engineering, Universidad Nacional de Colombia, Medellín. 2010–2017"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Forest sciences, University of Eastern Finland, Finland. 2023–2026\nMSc in European forestry, University of Eastern Finland, Finland. 2020–2022\nForestry engineering, Universidad Nacional de Colombia, Medellín. 2010–2017"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\n\nDoctoral researcher in the Biomass Production Research Group. School of Forest Sciences. University of Eastern Finland (UEF), Joensuu, Finland.\nPrevious position\n2026 Associate Editor. Journal ECOSISTEMAS. Ecological Asociation of Terrestrial Ecology – AEET.\n26/07/2025 – 20/11/2025. Visiting researcher. Research visit to the Université du Québec à Montréal (UQAM) in the lab of Christian Messier. Montreal, Canada.\n01/11/2023 – 30/11/2023. Visiting researcher. Research visit to the Adaptive Management and Forest Dynamics research group (Adaptafor). Lleida, Spain.\n06/2021 – 07/2021. Intern. LAB of forest planning and landscape analysis, University of Lleida. Lleida, Spain."
+  },
+  {
+    "objectID": "cv.html#data-science-and-spatial-analysis-skills",
+    "href": "cv.html#data-science-and-spatial-analysis-skills",
+    "title": "CV",
+    "section": "Data science and spatial analysis skills",
+    "text": "Data science and spatial analysis skills\n\nExpertise in R for data management and visualization using complex spatial databases.\nExpertise in ArcGIS and QGIS for geographic data analysis and visualization.\nExperience with version control, branching, and collaboration using Git and GitHub, especially within the R environment.\nBasics of Linux, basics of bash scripting. Actively learning more in the context of geostatistics."
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nSpanish, English, Catalan"
+  },
+  {
+    "objectID": "cv.html#awards-and-grants",
+    "href": "cv.html#awards-and-grants",
+    "title": "CV",
+    "section": "Awards and grants",
+    "text": "Awards and grants\n\n2025: Liisa and Inkeri Hiltunen Foundation for doctoral research\n2025: Saastamoinen foundation grant through the University of Eastern Finland for research periods abroad\n2025: Iberian Society of Ecology (SIBECOL) grant to attend the III SIBECOL & XVII AEET meeting\n2025: OIKOS Finland travel grant to attend the Oikos Finland 2025 conference\n2023: Finnish cultural foundation. North Karelia regional fund\n2020-2022 Erasmus mundus + International master’s degrees."
+  },
+  {
+    "objectID": "posts/2026-07-16-confusion-de-currucas.html",
+    "href": "posts/2026-07-16-confusion-de-currucas.html",
+    "title": "Confusión de currucas",
+    "section": "",
+    "text": "⚠️Disclaimer: Todas las fotos y la manipulación de las especies se hicieron con anilladores expertos en el marco de una sesión pedagógica de anillamiento científico.\nEn el último anillamiento que hicimos con Espais Naturals de Ponent en Castellserá, encontramos 3 especies de currucas muy interesantes. Antes pensaba que era bastante fácil identificarlas y no confundirlas, pero en esta época de juveniles, todo es posible y me hice un enredo cuando abrí mi guía y me di cuenta de que hay varias especies posibles y que los juveniles se ven muy diferentes a los adultos.\nLos anilladores expertos de la sesión (Sergi Sales y Enric Morera) nos dieron varias claves para identificarlas y, además, encontré un par de recursos muy buenos para cuando haya dudas.\nAquí dejo un resumen de los caracteres que me parecieron más útiles para la identificación que espero les sirva a otros y que seguro yo misma visitaré en el futuro para volver a aclarar dudas.\n\nSylvia hortensis – Tallarol enmascarat – Curruca mirlona\nEl tamaño la delata; es un ave bastante grande, con el pico más largo y duro que las demás especies. Los adultos tienen iris de color amarillento y los jóvenes iris de color oscuro\nLos adultos definitivamente hacen honor a su nombre en catalán, porque llevan una máscara negra, pero no es tan claro en los juveniles, como el de esta foto:\n\n\n\nCurruca mirlona\n\n\n\n\nSylvia cantillans – Tallarol de garriga – Curruca carrasqueña vs Sylvia melanocephala – Tallarol capnegre – Curruca cabecinegra\nEn estas fotos comparamos dos ejemplares, a la izquierda, Sylvia cantillans joven, con un anillo ocular pálido. Los machos adultos tienen un anillo ocular rojo bastante claro y una bigotera blanca delgada. A la derecha, el juvenil de Sylvia melanocephala ya comienza a presentar su característico anillo ocular rojo.\n\n\n\nCantillans Melano\n\n\nOtro carácter determinante es el rojizo o marrón rojizo en los bordes de las terciarias de la Sylvia cantillans comparada con los bordes mucho más oscuros de la Sylvia melanocephala. Esto se ve claro en la siguiente foto, pero se ve mucho más claro en esta entrada del blog del grupo de anilamiento álula donde las comparan con una tercera curruca que es la tomillera (Sylvia conspicillata).\n\n\n\nCantillans Melano\n\n\nFinalmente, otro recurso muy útil es esta clave de Javier Blasco Zumeta y Gerd-Michael Heinze para la identificación de juveniles de curruca. Ahí, se menciona otro carácter fácil e interesante en el que, generalmente la primera primaria (en la guía 10ª) es de la misma longitud que las cobertoras primarias para la Sylvia cantillans, mientras que es más larga para la Sylvia melanocephala.\nAquí dejo también una foto de un juvenil de Sylvia cantillans tomada por Eladi Ribes en el Parapeu (Bovera, Lleida).\n\n\n\nCantillans"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research in landscape ecology centers on ecological connectivity and landscape planning. I am currently exploring forest landscape models such as LANDIS-II and complex network approaches to functional connectivity, with the aim of understanding how landscape structure and management shape ecological processes."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research in landscape ecology centers on ecological connectivity and landscape planning. I am currently exploring forest landscape models such as LANDIS-II and complex network approaches to functional connectivity, with the aim of understanding how landscape structure and management shape ecological processes."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nDIVERSE: Adapting forests to lobal Change\nI will soon begin a postdoctoral position within the DIVERSE project, where I will model forest management strategies to enhance forest resilience and landscape connectivity.\ncheck more information here https://diverseproject.uqo.ca/\n\n\nSYNERGIES -Nordic Forest research\nEnhancing the sustainable integration of wood biomass production with other ecosystem services. I worked as a pre doctoral researcher, and my main contribution is summarized in the first publication of my PhD Pineda-Zapata, S., and B. Mola-Yudego. (2025).\nCheck more information here: https://sites.uef.fi/biopro/projects/synergies/"
+  },
+  {
+    "objectID": "research.html#conferences-and-seminars",
+    "href": "research.html#conferences-and-seminars",
+    "title": "Research",
+    "section": "Conferences and seminars",
+    "text": "Conferences and seminars\n• Oral presentation at the III SIBECOL & XVII AEET meeting 2025 “Another science is possible: diversity, degrowth, and sustainability in ecological research”, held in Pontevedra, Spain.\n• Oral presentation at the Oikos Finland Conference 2025 “Ecology and evolution: patterns, processes, and applications”, held in Jyväskylä, Finland.\n• Oral presentation at the IALE 2022 European Landscape Ecology Congress “Making the Future, Learning from the Past”, online."
+  }
+]
