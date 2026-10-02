@@ -17,13 +17,15 @@ listing:
 
 ## About me
 
-I am a forestry engineer and bird enthusiast. I created this website to share the process of my doctoral studies and my early career as a researcher, along with my own tutorials and tips on landscape management and planning.
+Hi, I'm Sara! 👋 I'm a forestry engineer and bird enthusiast 🐦‍⬛.
 
-There is also a space for birds. Birdwatching is one of my favourite hobbies, and I like to share the birds I have seen over the years in Colombia and Europe.
+I created this website to share the ups and downs of my research career, along with my own tutorials and tips on landscape ecology and landscape connectivity.
 
-I am interested in landscape ecology, especially ecological connectivity.
+There is also a corner for [birds](birds.qmd): birdwatching and bird ringing are two of my favorite hobbies, and this is where I share the birds I've seen over the years.
 
-<!-- Update this section with your current position and research. -->
+I also like writing so pop over to my [blog](blog.qmd) for my thoughts on the things close to my heart: immigration, feminism 💪🏽, bird ringing, and whatever else is on my mind. ✍️
+
+**News:** I just got my PhD diploma 🎓 and I'm about to start a postdoc in Canada 🍁, modeling forest management strategies to enhance resilience and connectivity.
 
 ### Follow me
 

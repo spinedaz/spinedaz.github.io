@@ -4,20 +4,31 @@ title: "Research"
 
 ## Research interests
 
-I work in landscape ecology, with a focus on ecological connectivity and landscape planning.
-
-<!-- Add or replace topics with your current research areas. -->
+My research in landscape ecology centers on ecological connectivity and landscape planning. I am currently exploring forest landscape models such as LANDIS-II and complex network approaches to functional connectivity, with the aim of understanding how landscape structure and management shape ecological processes.
 
 ## Projects
 
-### Project name
+### DIVERSE: Adapting forests to lobal Change
 
-One or two sentences: the question, the study area, the methods and your role.
+I will soon begin a postdoctoral position within the DIVERSE project, where I will model forest management strategies to enhance forest resilience and landscape connectivity. 
 
-### Another project
+check more information here <https://diverseproject.uqo.ca/>
 
-Same format. Link to a paper, a repository or the project website if there is one.
+### SYNERGIES -Nordic Forest research
 
-## Collaborations
+Enhancing the sustainable integration of wood biomass production with other ecosystem services. 
+I worked as a pre doctoral researcher, and my main contribution is summarized in the first publication of my PhD [Pineda-Zapata, S., and B. Mola-Yudego. (2025)](publications.qmd).
 
-Groups and institutions you work with.
+Check more information here: <https://sites.uef.fi/biopro/projects/synergies/>
+
+## Conferences and seminars
+
+• Oral presentation at the III SIBECOL & XVII AEET meeting 2025 “Another science is
+possible: diversity, degrowth, and sustainability in ecological research”, held in
+Pontevedra, Spain.
+
+• Oral presentation at the Oikos Finland Conference 2025 “Ecology and evolution:
+patterns, processes, and applications”, held in Jyväskylä, Finland.
+
+• Oral presentation at the IALE 2022 European Landscape Ecology Congress "Making
+the Future, Learning from the Past", online.

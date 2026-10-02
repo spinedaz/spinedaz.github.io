@@ -3,6 +3,7 @@ title: "Making maps and figures in R"
 date: "2026-10-02"
 categories: [R, data visualization]
 description: "Example tutorial. Replace it with your own."
+draft: TRUE
 ---
 
 Short introduction to what this tutorial covers.

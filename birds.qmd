@@ -2,7 +2,7 @@
 title: "Birds"
 ---
 
-Birds I have seen in Colombia and Europe, and some of my photos.
+In construction ⚠️👁️
 
 <!-- Add photos in images/ and include them like this:
 ![Caption](images/bird-example.jpg){width=60%}

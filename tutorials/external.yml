@@ -1,0 +1,41 @@
+- title: "Simpsons heatwave dataviz"
+  description: "A summer-themed visualization of the Simpsons dataset, I made for the TidyTuesday challenge. Code in the repo."
+  path: https://github.com/spinedaz/simpson_tidytuesday
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2025/07/summer_words_location.png
+  date: 2025-07-10
+  categories: [R, visualization, TidyTuesday]
+
+- title: "Medellín street map"
+  description: "A street map of Medellín in ggplot2, based on the ggplot2tutor streetmaps tutorial."
+  path: https://github.com/milos-agathon/tree-height-maps-meta
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2024/02/medellin.png
+  date: 2024-02-22
+  categories: [R, maps, visualization]
+
+- title: "Canopy height map of my neighborhood"
+  description: "Canopy height of the Belén neighborhood in Medellín, adapted from a repository by Milos Agathon."
+  path: https://spinedaz1.wordpress.com/data-visualization/
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2024/05/medellin-canopy-height-light.png
+  date: 2024-05-15
+  categories: [R, maps, remote sensing]
+
+- title: "River basins of Colombia"
+  description: "Map of Colombian river basins made in R. Code and data in the repo."
+  path: https://github.com/spinedaz/Repo_basins
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2024/02/colombia-river-basins-1.png
+  date: 2024-02-22
+  categories: [R, maps, GIS]
+
+- title: "Eurostat: cereal yield visualization"
+  description: "Visualizing cereal yields across Europe with Eurostat data. Code in the repo."
+  path: https://github.com/spinedaz/Eurostat_visualization
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2024/02/final_figure-1.jpeg
+  date: 2024-02-25
+  categories: [R, visualization, Eurostat]
+
+- title: "Paid maternity leave around the world (#30DayChartChallenge)"
+  description: "Waffle chart of paid maternity leave length for the top 10 countries, using World Bank gender data. Day 4 of the #30DayChartChallenge 2024."
+  path: https://github.com/spinedaz/Day4_WAFFLE/tree/main
+  image: https://spinedaz1.wordpress.com/wp-content/uploads/2024/04/figure_day4.jpeg
+  date: 2024-04-04
+  categories: [R, visualization, 30DayChartChallenge]

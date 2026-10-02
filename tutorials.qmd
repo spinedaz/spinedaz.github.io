@@ -1,10 +1,61 @@
 ---
 title: "Tutorials"
-description: "Guides on R, GIS, Google Earth Engine and landscape ecology."
+description: "Nice datasets and tools on spatial stuff"
 listing:
-  contents: tutorials
-  type: default
-  sort: "date desc"
-  categories: true
-  date-format: "D MMMM YYYY"
+  - id: my-tutorials
+    contents:
+      - tutorials/external.yml
+      - tutorials
+    type: default
+    sort: "date desc"
+    categories: true
+    date-format: "D MMMM YYYY"
+  - id: recommended
+    contents: tutorials/recommended_tutorials.yml
+    type: default
+    sort: "title" 
 ---
+
+Join me as I dive into the chaotic jungle of open data, GIS wizardry, and the satisfying tutorials that kept me (barely) sane during my researcher struggles!
+
+![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif){width=50% fig-align="center"}
+
+## Open spatial data
+
+- [Natural earth](https://www.naturalearthdata.com/): Free vector and raster maps of cultural and physical data for the whole world. 
+I use the natural earth data mainly to get administrative boundaries of countries, states or provinces. They also have coarse resolution rivers and lakes.
+
+- [Open topography](https://www.opentopography.org/): Global and regional elevetion models, and so much more!
+Amazing DEM at a global and regional scale. They also have bulk download available if you register for free! 😎
+
+- [Landsat ready data](https://glad.geog.umd.edu/ard/home) Spatially and temporally consistent input for land cover mapping and change detection at global to local scales
+
+## Tools
+
+### Landscape ecology
+
+- I used [Gnarly Landscape Utilities](https://circuitscape.org/gnarly-landscape-utilities/) to create resistance surfaces for my master's thesis. In the webpage you can download the tool and also tutorials provided by circuitscape.
+
+- The one and only [Linkage mapper](https://linkagemapper.org/) for delimiting corridors.
+
+- [Circuitscape](https://circuitscape.org/) and [omniscape](https://docs.circuitscape.org/Omniscape.jl/latest/) for modeling functional connectivity based on circuit theory
+
+- [Conefor](conefor.org) and [Makurhini](https://connectscape.github.io/Makurhini/) to model landscape conenctivity based on graph theory
+
+- [Landscape metrics](https://r-spatialecology.github.io/landscapemetrics/) Incredibly useful R package to calculate landscape metrics
+
+
+## Open datasets
+
+- [Avonet](https://opentraits.org/datasets/avonet.html): Functional trait data for all birds, including six ecological variables, eleven continuous morphological traits, and information on range size and location. 
+
+
+## My tutorials
+
+::: {#my-tutorials}
+:::
+
+## Tutorials I recommend
+
+::: {#recommended}
+:::
