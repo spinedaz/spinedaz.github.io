@@ -17,3 +17,33 @@ a:hover { color: var(--pine); }
 .quarto-title-block .title { font-size: 2.2rem; }
 .quarto-listing-default .listing-title { font-family: 'Work Sans', sans-serif; }
 .nav-footer { color: var(--slate); }
+.profile-pic-box {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.profile-pic-box figure {
+  margin: 0;
+}
+
+.profile-pic-box img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 4px solid var(--paper);
+  box-shadow: 0 0 0 2px var(--moss);
+}
+
+@media (max-width: 576px) {
+  .profile-pic-box {
+    float: right;
+  position: relative;
+  top: -3rem;
+  margin: 0 0 1rem 1.5rem;
+  }
+  .profile-pic-box img {
+    margin: 0 auto;
+  }
+}

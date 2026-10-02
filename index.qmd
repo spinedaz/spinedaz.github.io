@@ -11,8 +11,9 @@ listing:
   date-format: "D MMMM YYYY"
 ---
 
-<!-- Add a photo: save it as images/profile.jpg and uncomment the line below -->
-<!-- ![](images/profile.jpg){fig-alt="Sara Pineda Z" width=240} -->
+::: {.profile-pic-box}
+![](./images/profile_pic.jpeg){fig-alt="Sara Pineda Z"}
+:::
 
 ## About me
 
@@ -29,3 +30,5 @@ I am interested in landscape ecology, especially ecological connectivity.
 [LinkedIn](https://www.linkedin.com/in/sara-pineda-zapata/) · [GitHub](https://github.com/spinedaz) · [Bluesky](https://bsky.app/profile/spinedaz.bsky.social)
 
 ## Recent posts
+
+
