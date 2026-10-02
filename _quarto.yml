@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Sara Pineda Z"
+  description: "Forestry engineer, landscape ecologist and bird enthusiast."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: data-visualization.qmd
+        text: Data visualization
+      - href: gis-tools.qmd
+        text: Landscape ecology and GIS tools
+      - href: birds.qmd
+        text: Birds
+      - href: thoughts.qmd
+        text: Thoughts
+      - href: publications.qmd
+        text: Sci publications
+    tools:
+      - icon: github
+        href: https://github.com/spinedaz
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sara-pineda-zapata/
+      - icon: bluesky
+        href: https://bsky.app/profile/spinedaz.bsky.social
+  page-footer: "© Sara Pineda Z · Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, styles.css]
+    toc: false
+    link-external-newwindow: true

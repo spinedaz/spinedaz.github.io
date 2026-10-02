@@ -1,0 +1,13 @@
+---
+title: "Sci publications"
+---
+
+## Peer-reviewed articles
+
+1. Author(s) (Year). Title. *Journal*, volume, pages. [DOI](https://doi.org/)
+
+## Thesis
+
+- Title of your thesis (Year). University.
+
+<!-- Replace the entries above with your own publications. -->

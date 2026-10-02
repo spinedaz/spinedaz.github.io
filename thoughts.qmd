@@ -1,0 +1,9 @@
+---
+title: "Thoughts"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  date-format: "D MMMM YYYY"
+---
