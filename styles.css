@@ -47,3 +47,27 @@ a:hover { color: var(--pine); }
     margin: 0 auto;
   }
 }
+
+.bird-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.bird-grid > * {
+  margin: 0;
+}
+
+.bird-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.bird-grid figcaption {
+  font-size: 0.85rem;
+  text-align: center;
+  margin-top: 0.4rem;
+}
