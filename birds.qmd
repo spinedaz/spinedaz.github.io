@@ -2,8 +2,30 @@
 title: "Birds"
 ---
 
-In construction ⚠️👁️
+::: {.bird-grid}
+![](images/birds/DSCN0108.jpg)
 
-<!-- Add photos in images/ and include them like this:
-![Caption](images/bird-example.jpg){width=60%}
--->
+![](images/birds/DSCN0181.jpg)
+
+![](images/birds/DSCN0304.jpg)
+
+![Abejaruco europeo](images/birds/DSCN6282.jpg)
+
+![](images/birds/DSCN0315.jpg)
+
+![](images/birds/DSCN0332.jpg)
+
+![](images/birds/DSCN0631.jpg)
+
+![](images/birds/DSCN0761.jpg)
+
+![](images/birds/DSCN0884.jpg)
+
+![](images/birds/DSCN5951.jpg)
+
+![](images/birds/DSCN5822.jpg)
+
+![](images/birds/DSCN5450.jpg)
+
+
+:::

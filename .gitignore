@@ -2,6 +2,7 @@
 _site/
 .Rproj.user/
 
+
 **/*.quarto_ipynb
 *.jpg
 *.jpeg
