@@ -4,15 +4,17 @@
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/2026-07-16-confusion-de-currucas.html"
+      "/posts/2026-07-16-confusion-de-currucas.html",
+      "/posts/2025-05-28-comunidad-academia.html"
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
-      "/posts/2026-07-16-confusion-de-currucas.html"
+      "/posts/2026-07-16-confusion-de-currucas.html",
+      "/posts/2025-05-28-comunidad-academia.html"
     ]
   }
 ]
