@@ -9,7 +9,7 @@ title: "Birds"
 
 ![](images/birds/DSCN0304.jpg)
 
-![Abejaruco europeo](images/birds/DSCN6282.jpg)
+![](images/birds/DSCN6282.jpg)
 
 ![](images/birds/DSCN0315.jpg)
 
